@@ -24,3 +24,19 @@ Install the necessary package using pip:
 
 ```bash
 pip install pandas
+
+## Setup
+
+### Input/Output Folders:
+- Set the `input_folder` variable to the directory containing your HTML sensor data files.
+- Set the `output_folder` variable to the directory where you want the converted CSV files to be saved.
+
+### Script Configuration:
+- Adjust any configuration parameters as needed (e.g., file paths, column data types) directly in the script.
+
+## Usage
+
+Run the script using Python:
+
+```bash
+python data_dump_html_to_csv.py
