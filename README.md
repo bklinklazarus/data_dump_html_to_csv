@@ -41,7 +41,7 @@ Run the script using Python:
 ```bash
 python data_dump_html_to_csv.py
 
-## The script will:
+### The script will:
 - Search for `.html` files in the input folder.
 - Process each file by parsing and cleaning the sensor data.
 - Convert the cleaned data into a Pandas DataFrame with proper types.
